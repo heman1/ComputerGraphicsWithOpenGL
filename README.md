@@ -1,6 +1,6 @@
-# Computer-Graphics-Using-Open-GL
+# ComputerGraphicsWithOpenGL
 
-1. Code to draw a triangle
+```1. Code to draw a triangle
 
 2. Creating a polygon
 
@@ -20,4 +20,4 @@
 
 10. Self rotating cube
 
-11. Beizer Curve
+11. Beizer Curve```
